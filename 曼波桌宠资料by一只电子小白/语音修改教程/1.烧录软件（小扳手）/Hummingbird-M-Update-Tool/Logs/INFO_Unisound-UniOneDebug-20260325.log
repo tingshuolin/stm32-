@@ -1,0 +1,19 @@
+Log file created at: 2026/03/25 15:36:14  PID: 3348
+Running on machine: LAPTOP-TTR30OME
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0325 15:36:14.936147 18144 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], version: V1.0.1 
+ 
+I0325 15:36:18.706048 18144 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 10 
+I0325 15:36:18.710390 18144 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:10 
+ 
+I0325 15:36:28.070869 18144 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 10 
+I0325 15:36:28.074241 18144 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:10 
+ 
+Log file created at: 2026/03/25 15:37:31  PID: 4440
+Running on machine: LAPTOP-TTR30OME
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0325 15:37:31.676234 16408 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], version: V1.0.1 
+ 
+I0325 15:37:48.003446 16408 UniOneDebugToolDlg.cpp:957] in function[CUniOneDebugToolDlg::StartBurn], opening Serial Port 10 
+I0325 15:37:48.007886 16408 code_page.cpp:268] in function[Unisound::OutputDebugPrintf], COM put_setting 921600, N, 8, 1 port:10 
+ 
